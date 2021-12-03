@@ -111,9 +111,9 @@ Users can borrow PLAY tokens after depositing certain collateral in GameFi. Afte
 PLAY Token enables a new gaming mechanism in the ZilChill Gaming metaverse. Host and Players can have their own profile, level up their profile with a player ranking system, called ZCR ( ZilChill Rankings). Levelling up a profile depends on the number of games the player has hosted or played. ZilChill Rankings (ZCR)  is a positive number, that represents a direct reflection of player skill. The more you win, the higher your ZCR will be. 
 
 ## Fantasy Games, Collectibles & Marketplace of ZilChill
-ZilChill will launch Fantasy Games in parallel to further boost real sports. All games of ZilChill are by default minted as an NFT with the feature of game page ownership and sponsorship. A play-to-earn gaming mechanism will be introduced in the form of ZilChill Collectible (ZCC). Players and hosts can win unique Gaming NFT based on games, levels, rankings, profile scores and milestones. ZCC is presented as a reward on the games that can't be minted by monetary value without climbing the ZCR ranks. ZilChill Collectibles (ZCC)  will always have special value while playing games on ZilChill Platform.
+ZilChill will launch Fantasy Games in parallel to further boost real sports. All games of ZilChill are by default minted as an NFT's with the feature of game page ownership and sponsorship. A play-to-earn gaming mechanism will be introduced in the form of ZilChill Collectibles(ZCC).Players and hosts can win unique Gaming NFT based on games, levels, rankings, profile scores and milestones. ZilChill Collectibles(ZCC) is presented as a reward on the games that can't be minted by monetary value without climbing the ZCR ranks. ZilChill Collectibles(ZCC) will always have special value while playing games on ZilChill Platform.
 
-These NFTs may be available for resale or auction in other marketplaces like Mintable and Zilswap's ARK. 
+These NFT's may be available for resale or auction in other marketplaces like Mintable and Zilswap's ARK. 
 
 
 
