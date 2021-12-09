@@ -19,7 +19,7 @@ ZilChill Gaming Platform offers various multi-player games, PredictionDEX, p2p P
 With the introduction of PLAY token as "Reserve Currency" of ZilChill Platform, multi-token game playing is enabled. PLAY token acts as Reserve Currency of ZilChill while players are able to use ZIL, PLAY, zWBTC, zETH, and zUSDT. For chess game, ZCH token can be used to play, and for UFF Sports, SCO token can be used to play games. Winners are by default rewarded in PLAY token while there can be other tokens in some collaborated games for prize withdrawl.
 
 ## PredictionDEX of ZilChill
-A decentralized exchange for trading and swapping conditional-tokenized predictions is PredictionDEX of ZilChill. This DEX is similar to Uniswap or Zilswap with AMM feature but the trade happens for conditional tokens of outcomes of events. This project delivers an autonomous market making (AMM) application by leveraging the power of decentralization to make reliable forecast. This will also become a hedging tool against unexpected event outcomes based on socio-political changes. PLAY token acts as reserve currency and base pair of all outcomes in PredictionDEX.
+A decentralized exchange for trading and swapping conditional-tokenized predictions is PredictionDEX of ZilChill. This DEX is similar to Uniswap or ZilSwap with AMM feature but the trade happens for conditional tokens of outcomes of events. This project delivers an autonomous market making (AMM) application by leveraging the power of decentralization to make reliable forecast. This will also become a hedging tool against unexpected event outcomes based on socio-political changes. PLAY token acts as reserve currency and base pair of all outcomes in PredictionDEX.
 
 **How is market created?**
 
